@@ -1,3 +1,3 @@
 # aks-scripts
 
-## scripts for managing scripts in kubernetes environment
+## scripts for managing kubernetes environment
